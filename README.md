@@ -13,10 +13,10 @@ Ahegao datasets from **Danbooru2020**
 
 ## Download
 
-|         \          |                                                Description                                                |                                              Cropped                                               |                                              512x512                                               |
-| :----------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-|    Full (11168)    | Since it's not filtered, might containing low quality, grayscale, duplicate, non-face, non-ahegao images. | [Google Drive](https://drive.google.com/file/d/1-fwgiRe9WmaqIIqPLe18wU5tslGxJt3G/view?usp=sharing) |                                                                                                    |
-| Handpicked  (2651) |              Handpicked partial images by myself, but still not confirm every image is good.              | [Google Drive](https://drive.google.com/file/d/1jbJQEwLZcHTQzGikWXL0bj3gFq07Rmmz/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1XYXquD_m8OdEa7hRMnfG4Ms-Wf6j-rCW/view?usp=sharing) |
+|      Version       |                                                Description                                                |                                               Cropped                                                |      Scaled       |                                                Padded                                                |
+| :----------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------: |
+|    Full (11168)    | Since it's not filtered, might containing low quality, grayscale, duplicate, non-face, non-ahegao images. | [Google Drive](https://drive.google.com/u/1/uc?id=1-fwgiRe9WmaqIIqPLe18wU5tslGxJt3G&export=download) | [Google Drive](#) |                                          [Google Drive](#)                                           |
+| Handpicked  (2651) |              Handpicked partial images by myself, but still not confirm every image is good.              | [Google Drive](https://drive.google.com/u/1/uc?id=1jbJQEwLZcHTQzGikWXL0bj3gFq07Rmmz&export=download) | [Google Drive]([#](https://drive.google.com/u/1/uc?id=1QCzo0-WCY0TeqCTRO8RTdPcJXN-2KTxD&export=download)) | [Google Drive](https://drive.google.com/u/1/uc?id=1XYXquD_m8OdEa7hRMnfG4Ms-Wf6j-rCW&export=download) |
 
 ## Credits
 
