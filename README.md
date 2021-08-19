@@ -4,6 +4,8 @@ Ahegao datasets from **Danbooru2020**
 
 :warning: Might Containing Some NSFW Contents!
 
+![](https://github.com/ShinoharaHare/Danbooru2020-Ahegao/raw/main/handpicked.jpg)
+
 ## Proccess Pipeline
 
 1. Download all images whose tag includes `ahegao` and excludes `greyscale,spot_color` from **Danbooru2020**.
