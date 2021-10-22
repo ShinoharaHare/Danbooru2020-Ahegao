@@ -6,7 +6,7 @@ Ahegao datasets from **Danbooru2020**
 
 ![](https://github.com/ShinoharaHare/Danbooru2020-Ahegao/raw/main/handpicked.jpg)
 
-## Proccess Pipeline
+## Process Pipeline
 
 1. Download all images whose tag includes `ahegao` and excludes `greyscale,spot_color` from **Danbooru2020**.
 2. Crop the faces using [anime-face-detector](https://github.com/qhgz2013/anime-face-detector) with `conf 0.95`
